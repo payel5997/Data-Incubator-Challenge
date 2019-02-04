@@ -11,6 +11,7 @@ There are three main factors that contribute to effective and realistic risk ass
 Probabilistic Seismic Hazard Assessment (PSHA) is the most commonly used method for seismic hazard and risk assessment to be used as input for various public and financial metrics. The US Geological Survey (USGS) has developed the national seismic hazard maps using PSHA which form the basis of various seismic safety regulations and design standards such as the NEHRP Recommended Provisions for Seismic Regulations for New Buildings and Other Structures [Ref. 2], the 2000 International Building Code [Ref. 3] among others. 
 
 It is proposed to use the USGS Earthquake Hazard catalogue available in USGS website that contains a record of the different earthquake events in US as well as globally over a specified time period to visualize the pattern in the data and predict models for future seismic events. 
+https://github.com/payel5997/Data-Incubator-Challenge/blob/master/challenge_question_1.R
 
 2. Goals of the Proposed Project 
 The proposed goals can be summarized broadly as follows:
