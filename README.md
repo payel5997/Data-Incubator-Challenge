@@ -6,7 +6,7 @@ The purpose of this repo is to provide the full code and context for my answers 
 R script of challenge question 1 can be found [here](https://github.com/payel5997/Data-Incubator-Challenge/blob/master/challenge_question_1.R)
 
 # Challenge Question 2
-Python script for challenge question 2 can be found [here] (https://github.com/payel5997/Data-Incubator-Challenge/blob/master/challenge_question_2.py)
+Python script for challenge question 2 can be found [here](https://github.com/payel5997/Data-Incubator-Challenge/blob/master/challenge_question_2.py)
 
 # Project Proposal
 1. Introduction
