@@ -33,7 +33,7 @@ The proposed goals can be summarized broadly as follows:
 
 For a preliminary study, a representative, comparatively smaller data set from the Earthquake Hazard Catalogue database in USGS website has been chosen. This data corresponds to Conterminous U.S. (Conterminous U.S. refers to a rectangular region including the lower 48 states and surrounding areas which are outside the Conterminous U.S.) for a data range of last six months. The results of the preliminary study are discussed as follows:
 1. The magnitude of the different earthquakes are plotted against the location of the earthquake and shown as 3D scatter plot and 3D contour plot. As observed from the plot, the distribution of the different magnitude earthquake are typically localized to seismic prone regions. A statistical model based on past data can help to predict future earthquake locations and magnitudes.
-2. A simple linear regression model is fit and the model diagnostics are plotted to show the goodness of fit.
+2. A simple linear regression model is fit and the model diagnostics are plotted to show the goodness of fit. Plots [1](https://github.com/payel5997/Data-Incubator-Challenge/blob/master/Project_Proposal/Plot2b.pdf),[2](https://github.com/payel5997/Data-Incubator-Challenge/blob/master/Project_Proposal/Plot2.pdf), and [3](https://github.com/payel5997/Data-Incubator-Challenge/blob/master/Project_Proposal/Plot2a.pdf) demonstrate the above.
 
 Using data set for the past 10, 20, 50 and 100 years, the statistical model can be improved and this model can be used to fulfill the goals as stated in the project proposal. The past data will also be used to update existing model using Bayesian non-linear regression and semi parametric modeling.
 
