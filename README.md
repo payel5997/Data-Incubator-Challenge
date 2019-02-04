@@ -1,4 +1,14 @@
 # Data-Incubator-Challenge
+Thank you for considering my application to the Data Incubator Fellows program!
+
+The purpose of this repo is to provide the full code and context for my answers to the admissions challenge for the session beginning April 2019.
+# Challenge Question 1
+R script of challenge question 1 can be found [here](https://github.com/payel5997/Data-Incubator-Challenge/blob/master/challenge_question_1.R)
+
+# Challenge Question 2
+Python script for challenge question 2 can be found [here] (https://github.com/payel5997/Data-Incubator-Challenge/blob/master/challenge_question_2.py)
+
+# Project Proposal
 1. Introduction
 The reliability of structures in case of an earthquake depends on the performance of the individual structures and components during and after an earthquake which in turn depends on the structural resilience during the hazard. Between 1985 and 2014, the annual earthquake-related losses have increased from US$ 14 billion to US$ 140 billion and the corresponding average affected population has increased from 60 million people to 179 million people [Ref. 1].
 Seismic risk assessment constitutes a key element to support decisions and actions to reduce potential loss of financial resources as well as human life. 
@@ -11,7 +21,6 @@ There are three main factors that contribute to effective and realistic risk ass
 Probabilistic Seismic Hazard Assessment (PSHA) is the most commonly used method for seismic hazard and risk assessment to be used as input for various public and financial metrics. The US Geological Survey (USGS) has developed the national seismic hazard maps using PSHA which form the basis of various seismic safety regulations and design standards such as the NEHRP Recommended Provisions for Seismic Regulations for New Buildings and Other Structures [Ref. 2], the 2000 International Building Code [Ref. 3] among others. 
 
 It is proposed to use the USGS Earthquake Hazard catalogue available in USGS website that contains a record of the different earthquake events in US as well as globally over a specified time period to visualize the pattern in the data and predict models for future seismic events. 
-https://github.com/payel5997/Data-Incubator-Challenge/blob/master/challenge_question_1.R
 
 2. Goals of the Proposed Project 
 The proposed goals can be summarized broadly as follows:
